@@ -28,7 +28,7 @@
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="" width="40" height="40"/> </a> 
-<a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Snowflake_Logo.svg/1200px-Snowflake_Logo.svg.png" alt="" width="40" height="40"/> </a> 
+<a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/kmKZjwLgHUTX8YHLJirs2spltplokuvo96n3zCDV8cU/rs:fit:900:900:1/g:ce/aHR0cHM6Ly95dDMu/Z2dwaHQuY29tL2Et/L0FBdUU3bUNLQW5f/bUlZVUN4eGlaNW5f/RnoxTk5KVm9kMEpF/QlhWQWxEQT1zOTAw/LW1vLWMtYzB4ZmZm/ZmZmZmYtcmotay1u/bw" alt="Snowflake" width="40" height="40"/> </a> 
 
 </p>
 
